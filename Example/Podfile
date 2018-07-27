@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'JCLoginDropDown_Example' do
+  pod 'JCLoginDropDown', :path => '../'
+
+  target 'JCLoginDropDown_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+    pod 'Expecta'
+    pod 'FBSnapshotTestCase'
+    pod 'Expecta+Snapshots'
+  end
+end
