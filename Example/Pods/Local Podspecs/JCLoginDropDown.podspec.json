@@ -1,0 +1,22 @@
+{
+  "name": "JCLoginDropDown",
+  "version": "0.1.0",
+  "summary": "A short description of JCLoginDropDown.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wjc1wjc2wjc3/JCLoginDropDown",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wjc1wjc2wjc3": "wjc1wjc2wjc3@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wjc1wjc2wjc3/JCLoginDropDown.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JCLoginDropDown/Classes/**/*"
+}
